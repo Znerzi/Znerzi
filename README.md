@@ -1,22 +1,22 @@
 <div align="center">
 
-<!-- Animated typing intro -->
-<a href="https://github.com/Znerzi">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Renz+%F0%9F%91%8B;Full-Stack+Web+Developer;Laravel+%C2%B7+Vue.js+%C2%B7+Next.js+%C2%B7+TypeScript;Turning+Ideas+Into+Reliable+Web+Apps;Based+in+Manila%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD&font=Fira+Code&center=true&width=600&height=60&duration=3000&pause=800&color=38BDF8&vCenter=true&size=26&multiline=false" alt="Typing SVG" />
-</a>
+<!-- Custom animated hero banner (villain / comic-noir palette) -->
+<img width="100%" src="assets/hero-banner.svg" alt="Renz Roann Diaz — Full-Stack Developer" />
 
-<!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=200&section=header&text=Renz%20Roann%20Diaz&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Building%20practical%2C%20modern%20web%20apps&descAlignY=58&descSize=16" />
+<!-- Animated typing line -->
+<a href="https://github.com/Znerzi">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Laravel+%C2%B7+Vue.js+%C2%B7+Next.js+%C2%B7+TypeScript;Currently+plotting+my+next+deploy;Based+in+Manila%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=E8C45A&vCenter=true&size=20&multiline=false" alt="Typing SVG" />
+</a>
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Znerzi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Znerzi&label=Profile%20Views&color=8A6A1E&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/Znerzi?tab=followers">
-    <img src="https://img.shields.io/github/followers/Znerzi?label=Followers&style=for-the-badge&color=38BDF8" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Znerzi?label=Followers&style=for-the-badge&color=E8C45A" alt="GitHub followers" />
   </a>
   <a href="https://github.com/Znerzi?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?color=38BDF8&label=Repositories&style=for-the-badge&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FZnerzi" alt="Public repos" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=E8C45A&label=Repositories&style=for-the-badge&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FZnerzi" alt="Public repos" />
   </a>
 </p>
 
@@ -24,13 +24,25 @@
 
 ### 🧑‍💻 About Me
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 - 🌏 Full-Stack Web Developer based in **Pandacan, Manila, Philippines**
 - 🛠️ Main stack: **Laravel · Vue.js · Next.js (App Router) · TypeScript · MySQL**
 - 🎓 BSIT graduate (**Cum Laude**), Universidad De Manila
 - 📜 CSC Professional Level II eligible · multiple TESDA certifications
 - 🚀 I turn business requirements into reliable, maintainable, user-friendly web apps
 - 🔧 I also enjoy refactoring existing systems — clearer UI, smoother workflows, better performance
+- 🎭 On heavy rotation while coding: **MF DOOM** — villain music for villain-grade code
 - 📫 Reach me at **renzdiaz.contact@gmail.com**
+
+</td>
+<td width="40%" align="center" valign="middle">
+<img src="assets/orbit-cube.svg" width="180" alt="Rotating tech stack cube" />
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -78,12 +90,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Znerzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znerzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Znerzi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E8C45A&icon_color=E8C45A&text_color=C9D1D9" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znerzi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E8C45A&text_color=C9D1D9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Znerzi&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Znerzi&theme=radical&hide_border=true&background=0D1117&ring=E8C45A&fire=E8C45A&currStreakLabel=E8C45A" />
 </div>
 
 <br>
@@ -121,4 +133,4 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:241832,100:0B0B0E&height=120&section=footer" />
