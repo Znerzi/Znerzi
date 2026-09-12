@@ -1,33 +1,124 @@
-name: Generate Snake Animation
+<div align="center">
 
-on:
-  schedule:
-    # Runs once a day at midnight UTC — adjust as you like
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
+<!-- Animated typing intro -->
+<a href="https://github.com/Znerzi">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Renz+%F0%9F%91%8B;Full-Stack+Web+Developer;Laravel+%C2%B7+Vue.js+%C2%B7+Next.js+%C2%B7+TypeScript;Turning+Ideas+Into+Reliable+Web+Apps;Based+in+Manila%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD&font=Fira+Code&center=true&width=600&height=60&duration=3000&pause=800&color=38BDF8&vCenter=true&size=26&multiline=false" alt="Typing SVG" />
+</a>
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake animation SVGs
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: Znerzi
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+<!-- Header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=200&section=header&text=Renz%20Roann%20Diaz&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Building%20practical%2C%20modern%20web%20apps&descAlignY=58&descSize=16" />
 
-      - name: Push SVGs to the "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Znerzi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/Znerzi?tab=followers">
+    <img src="https://img.shields.io/github/followers/Znerzi?label=Followers&style=for-the-badge&color=38BDF8" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Znerzi?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?color=38BDF8&label=Repositories&style=for-the-badge&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FZnerzi" alt="Public repos" />
+  </a>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🌏 Full-Stack Web Developer based in **Pandacan, Manila, Philippines**
+- 🛠️ Main stack: **Laravel · Vue.js · Next.js (App Router) · TypeScript · MySQL**
+- 🎓 BSIT graduate (**Cum Laude**), Universidad De Manila
+- 📜 CSC Professional Level II eligible · multiple TESDA certifications
+- 🚀 I turn business requirements into reliable, maintainable, user-friendly web apps
+- 🔧 I also enjoy refactoring existing systems — clearer UI, smoother workflows, better performance
+- 📫 Reach me at **renzdiaz.contact@gmail.com**
+
+<br>
+
+### 🧠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,php,vue,nextjs,ts,js,mysql,tailwind,html,css,git,github,figma,vscode&theme=dark" />
+</p>
+
+<br>
+
+### 🚀 Featured Work
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 PrimeOutsourcing — Project Management App</h4>
+      <p>Laravel + Vue.js platform with admin, developer, and client roles. Built the corporate landing page, financial tracking UI, proposal workflow (with an accept/reject admin review flow), and a role-conditional dashboard shell.</p>
+      <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,mysql&theme=dark" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎥 WebiMix — Webinar Hosting Platform</h4>
+      <p>Next.js + Supabase platform for hosting webinars for Filipino users — webinar management, registration, certificates, a scheduling planner with overlap detection, and a speaker hub. Security-hardened with rate limiting, sanitization, and IDOR-safe ownership checks.</p>
+      <img src="https://skillicons.dev/icons?i=nextjs,supabase,ts,tailwind&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Personal Portfolio</h4>
+      <p>Multi-iteration portfolio site — from a dark indigo/violet/cyan theme with a Three.js interactive globe and magnetic cursor, to a serif-heavy corporate redesign with a Manila map marker and AJAX contact form.</p>
+      <img src="https://skillicons.dev/icons?i=php,threejs,js,css&theme=dark" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>📌 More on GitHub</h4>
+      <p>Check out the full list of repositories and pinned projects on my profile for more hands-on work across frontend, backend, and full-stack builds.</p>
+      <a href="https://github.com/Znerzi?tab=repositories">
+        <img src="https://img.shields.io/badge/View%20All%20Repos-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Znerzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znerzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Znerzi&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+</div>
+
+<br>
+
+### 🐍 Contribution Snake
+
+<!--
+  This animation is generated by a GitHub Action (Platane/snk), NOT by
+  pasting an image link alone. See the "snake.yml" workflow file that
+  goes with this README for the setup steps — it commits the SVG below
+  to an "output" branch on a schedule.
+-->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Znerzi/Znerzi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Znerzi/Znerzi/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Znerzi/Znerzi/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br>
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/renzdiaz">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:renzdiaz.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Znerzi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=120&section=footer" />
