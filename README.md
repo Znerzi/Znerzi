@@ -16,12 +16,12 @@ Based in Manila, Philippines · Building reliable software with thoughtful inter
 
 ### About me
 
-I'm a full-stack developer focused on building secure, maintainable web applications and polished user experiences. I work across **Laravel, PHP, Vue.js, Next.js, TypeScript, and relational databases**—from data models and APIs to accessible, responsive interfaces.
+I'm a full-stack developer who enjoys building useful, easy-to-use web applications. I work with **Laravel, PHP, Vue.js, Next.js, TypeScript, and databases**, and I like turning ideas into websites that work well on any device.
 
-- 🛠️ **Building:** Business platforms, research systems, and developer-friendly tools
-- 🎨 **Interested in:** Clean UI/UX, design systems, and thoughtful interactions
-- 🔐 **Engineering values:** Security, clarity, maintainability, and performance
-- 🎓 **Education:** BS Information Technology, Universidad de Manila
+- **Building:** Websites and tools for businesses, schools, and teams
+- **Interested in:** Clear designs and simple, helpful interactions
+- **How I work:** I value secure, reliable software and code that's easy to maintain
+- **Education:** BS in Information Technology, Universidad de Manila
 
 ### Tech stack
 
@@ -29,7 +29,7 @@ I'm a full-stack developer focused on building secure, maintainable web applicat
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=vue,nextjs,react,ionic,ts,js,tailwind,html,css&theme=dark)
 
 **Backend & data**
 
@@ -39,12 +39,18 @@ I'm a full-stack developer focused on building secure, maintainable web applicat
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark)
 
+**DevOps & collaboration**
+
+![DevOps and collaboration tools](https://skillicons.dev/icons?i=aws,bitbucket,jira&theme=dark)
+
+<sub>AWS Lightsail · Amazon EC2</sub>
+
 </div>
 
 ### Selected work
 
 <p align="center">
-  <em>A selection of products and experiments, from workflow-heavy platforms to polished user-facing experiences.</em>
+  <em>A few projects I’ve worked on and enjoyed building.</em>
 </p>
 
 <table>
@@ -58,12 +64,12 @@ I'm a full-stack developer focused on building secure, maintainable web applicat
 
 <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,mysql&theme=dark" alt="Laravel, Vue.js, Tailwind CSS, and MySQL" />
 
-> A shared workspace for coordinating projects, proposals, and financial information.
+> A workspace that helps teams organize projects, proposals, and finances.
 
 **Highlights**
-- 🧭 Role-based dashboards for admins, developers, and clients
-- 📋 Proposal reviews and financial views
-- 🔗 Frontend integration with backend forms and data
+- Separate dashboards for admins, developers, and clients
+- Tools to review proposals and view financial details
+- Pages connected to forms and project data
 
 </td>
 <td width="50%" valign="top">
@@ -75,12 +81,12 @@ I'm a full-stack developer focused on building secure, maintainable web applicat
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,supabase&theme=dark" alt="Next.js, TypeScript, and Supabase" />
 
-> An end-to-end experience for publishing webinars and supporting attendees.
+> A place for hosts to publish webinars and manage the attendee experience.
 
 **Highlights**
-- 🎥 Webinar publishing and registration management
-- 🎓 Certificate and learning-material workflows
-- 🔒 Responsive interfaces for hosts and attendees
+- Publish webinars and manage registrations
+- Share certificates and learning materials
+- Easy-to-use pages for hosts and attendees
 
 </td>
 </tr>
@@ -94,12 +100,12 @@ I'm a full-stack developer focused on building secure, maintainable web applicat
 
 <img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" alt="PHP and MySQL" />
 
-> A centralized academic archive built for the Universidad de Manila community.
+> An online collection of academic research for the Universidad de Manila community.
 
 **Highlights**
-- 🔎 NLP-assisted search and filtering
-- 📚 Submission and review workflows
-- 👥 Dedicated student and librarian experiences
+- Search and filter research papers
+- Submit papers and manage reviews
+- Pages for students and librarians
 
 </td>
 <td width="50%" valign="top">
@@ -111,12 +117,12 @@ I'm a full-stack developer focused on building secure, maintainable web applicat
 
 <img src="https://skillicons.dev/icons?i=laravel,js&theme=dark" alt="Laravel and JavaScript" />
 
-> A space to present projects and refine visual ideas through iteration.
+> My website for sharing projects and trying out new design ideas.
 
 **Highlights**
-- ✨ Visual design and interaction improvements
-- 📱 Responsive layouts and accessible navigation
-- 🎯 Focus on clarity, usability, and presentation
+- Improve the look and feel of the website
+- Make it work well on phones and computers
+- Keep pages clear and easy to navigate
 
 </td>
 </tr>
@@ -124,23 +130,58 @@ I'm a full-stack developer focused on building secure, maintainable web applicat
 
 ### Public repositories
 
-| Repository | Focus |
-| :--- | :--- |
-| [CSNK-V2.2](https://github.com/Znerzi/CSNK-V2.2) | Vue-based application |
-| [LaraNext](https://github.com/Znerzi/LaraNext) | Laravel / Blade development |
-| [Ionic](https://github.com/Znerzi/Ionic) | TypeScript mobile development |
-| [R_OneClickShop](https://github.com/Znerzi/R_OneClickShop) | E-commerce web project |
+<p>Some of the projects and technologies I’ve been exploring:</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [CSNK-V2.2](https://github.com/Znerzi/CSNK-V2.2)
+Vue-based application
+
+<img src="https://img.shields.io/badge/Vue.js-Frontend-42b883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js frontend" />
+
+</td>
+<td width="50%" valign="top">
+
+#### [LaraNext](https://github.com/Znerzi/LaraNext)
+Laravel and Blade development
+
+<img src="https://img.shields.io/badge/Laravel-Web%20development-ff2d20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel web development" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Ionic](https://github.com/Znerzi/Ionic)
+TypeScript mobile development
+
+<img src="https://img.shields.io/badge/TypeScript-Mobile%20development-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript mobile development" />
+
+</td>
+<td width="50%" valign="top">
+
+#### [R_OneClickShop](https://github.com/Znerzi/R_OneClickShop)
+E-commerce web project
+
+<img src="https://img.shields.io/badge/E--commerce-Web%20project-f0883e?style=flat-square&logo=shopify&logoColor=white" alt="E-commerce web project" />
+
+</td>
+</tr>
+</table>
 
 ### GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Znerzi&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117" alt="Renz's GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znerzi&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" alt="Most used languages" height="165" />
+[![GitHub followers](https://img.shields.io/github/followers/Znerzi?style=for-the-badge&logo=github&label=FOLLOWERS&color=238636)](https://github.com/Znerzi?tab=followers)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Znerzi&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=3fb950&point=3fb950" alt="GitHub contribution activity graph" width="100%" />
+**Follow along with my work and contributions**
 
-<sub>GitHub's native contribution calendar and achievement badges appear on your profile automatically when available. They cannot be repositioned through README Markdown.</sub>
+[View my GitHub profile and contribution calendar →](https://github.com/Znerzi)
+
+<sub>Contribution history and achievements are shown on my GitHub profile. This keeps the section useful even when third-party stats services are unavailable.</sub>
 
 </div>
 
@@ -148,9 +189,13 @@ I'm a full-stack developer focused on building secure, maintainable web applicat
 
 <div align="center">
 
-**Let's build something useful.**
+### Have a project in mind?
 
-[Email](mailto:renzdiaz.contact@gmail.com) · [LinkedIn](https://linkedin.com/in/renzdiaz) · [GitHub](https://github.com/Znerzi)
+I'd love to hear what you're building. Let's make something useful together.
+
+[![Email](https://img.shields.io/badge/Email-Say%20hello-30363d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renzdiaz.contact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renzdiaz)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Znerzi)
 
 <sub>Designed for GitHub's dark appearance · Updated 2026</sub>
 
