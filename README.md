@@ -43,56 +43,80 @@ I'm a full-stack developer focused on building secure, maintainable web applicat
 
 ### Selected work
 
+<p align="center">
+  <em>A selection of products and experiments, from workflow-heavy platforms to polished user-facing experiences.</em>
+</p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**PrimeOutsourcing**  
-*Project management platform*
+<img src="https://img.shields.io/badge/01-BUSINESS%20PLATFORM-1f6feb?style=for-the-badge" alt="Business platform" />
 
-Laravel + Vue.js + Tailwind CSS + MySQL
+### PrimeOutsourcing
+<em>Project management platform</em>
 
-- Role-based dashboards for admins, developers, and clients
-- Proposal reviews, financial views, and interface improvements
-- Frontend integration with backend forms and data
+<img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,mysql&theme=dark" alt="Laravel, Vue.js, Tailwind CSS, and MySQL" />
+
+> A shared workspace for coordinating projects, proposals, and financial information.
+
+**Highlights**
+- 🧭 Role-based dashboards for admins, developers, and clients
+- 📋 Proposal reviews and financial views
+- 🔗 Frontend integration with backend forms and data
 
 </td>
 <td width="50%" valign="top">
 
-**WebiMix**  
-*Webinar hosting and management*
+<img src="https://img.shields.io/badge/02-LIVE%20EVENTS-8957e5?style=for-the-badge" alt="Live events" />
 
-Next.js + TypeScript + Supabase
+### WebiMix
+<em>Webinar hosting and management</em>
 
-- Webinar publishing and registration management
-- Certificate and learning-material workflows
-- Secure, responsive interfaces for hosts and attendees
+<img src="https://skillicons.dev/icons?i=nextjs,ts,supabase&theme=dark" alt="Next.js, TypeScript, and Supabase" />
+
+> An end-to-end experience for publishing webinars and supporting attendees.
+
+**Highlights**
+- 🎥 Webinar publishing and registration management
+- 🎓 Certificate and learning-material workflows
+- 🔒 Responsive interfaces for hosts and attendees
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**MerlArchive**  
-*Academic research repository*
+<img src="https://img.shields.io/badge/03-ACADEMIC%20RESEARCH-238636?style=for-the-badge" alt="Academic research" />
 
-PHP + MySQL + NLP-assisted search
+### MerlArchive
+<em>Academic research repository</em>
 
-- Centralized academic archive for Universidad de Manila
-- Search, filtering, submissions, and review workflows
-- Student and librarian-facing experiences
+<img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" alt="PHP and MySQL" />
+
+> A centralized academic archive built for the Universidad de Manila community.
+
+**Highlights**
+- 🔎 NLP-assisted search and filtering
+- 📚 Submission and review workflows
+- 👥 Dedicated student and librarian experiences
 
 </td>
 <td width="50%" valign="top">
 
-**Personal Portfolio**  
-*Developer website and design explorations*
+<img src="https://img.shields.io/badge/04-DESIGN%20EXPLORATION-f0883e?style=for-the-badge" alt="Design exploration" />
 
-Laravel + Blade + JavaScript
+### Personal Portfolio
+<em>Developer website and design explorations</em>
 
-- Iterative visual design and interaction improvements
-- Responsive layouts and accessible navigation
-- Focus on clarity, usability, and presentation
+<img src="https://skillicons.dev/icons?i=laravel,js&theme=dark" alt="Laravel and JavaScript" />
+
+> A space to present projects and refine visual ideas through iteration.
+
+**Highlights**
+- ✨ Visual design and interaction improvements
+- 📱 Responsive layouts and accessible navigation
+- 🎯 Focus on clarity, usability, and presentation
 
 </td>
 </tr>
