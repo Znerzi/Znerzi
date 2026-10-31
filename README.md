@@ -25,27 +25,41 @@ I'm a full-stack developer who enjoys building useful, easy-to-use web applicati
 
 ### Tech stack
 
-<div align="center">
+<p>A few of the tools I use to build, design, and ship web projects.</p>
 
-**Frontend**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Frontend](https://skillicons.dev/icons?i=vue,nextjs,react,ionic,ts,js,tailwind,html,css&theme=dark)
+<strong>Frontend</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Vue.js, Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, and CSS" /><br />
+<img src="https://img.shields.io/badge/Ionic-Mobile%20apps-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic" />
 
-**Backend & data**
+</td>
+<td width="50%" valign="top">
 
-![Backend](https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=dark)
+<strong>Backend &amp; data</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=dark" alt="Laravel, PHP, Node.js, MySQL, PostgreSQL, and Supabase" />
 
-**Tools**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark)
+<strong>Tools</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Git, GitHub, VS Code, Figma, Postman, and Vercel" />
 
-**DevOps & collaboration**
+</td>
+<td width="50%" valign="top">
 
-![DevOps and collaboration tools](https://skillicons.dev/icons?i=aws,bitbucket,jira&theme=dark)
-
+<strong>Cloud &amp; collaboration</strong><br /><br />
+<img src="https://skillicons.dev/icons?i=aws,bitbucket&theme=dark" alt="AWS and Bitbucket" />
+<img src="https://img.shields.io/badge/Jira-Work%20tracking-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" /><br />
 <sub>AWS Lightsail · Amazon EC2</sub>
 
-</div>
+</td>
+</tr>
+</table>
 
 ### Selected work
 
@@ -57,19 +71,19 @@ I'm a full-stack developer who enjoys building useful, easy-to-use web applicati
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/01-BUSINESS%20PLATFORM-1f6feb?style=for-the-badge" alt="Business platform" />
+<img src="https://img.shields.io/badge/01-FRONTEND%20PROJECT-1f6feb?style=for-the-badge" alt="Frontend project" />
 
-### PrimeOutsourcing
-<em>Project management platform</em>
+### [CSNK-V2.2](https://github.com/Znerzi/CSNK-V2.2)
+<em>Vue-based application</em>
 
-<img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,mysql&theme=dark" alt="Laravel, Vue.js, Tailwind CSS, and MySQL" />
+<img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js" />
 
-> A workspace that helps teams organize projects, proposals, and finances.
+> A frontend project built with Vue.js.
 
 **Highlights**
-- Separate dashboards for admins, developers, and clients
-- Tools to review proposals and view financial details
-- Pages connected to forms and project data
+- Built with Vue.js
+- Focused on frontend development
+- [Explore the source code on GitHub](https://github.com/Znerzi/CSNK-V2.2)
 
 </td>
 <td width="50%" valign="top">
