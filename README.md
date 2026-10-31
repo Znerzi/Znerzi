@@ -1,36 +1,45 @@
 <div align="center">
 
-# Renz Diaz
+# Hey, I'm Renz Diaz 👋
 
-**Full-Stack Developer · Laravel · Vue.js · Next.js**
+**Full-Stack Developer · Laravel & Vue.js · Next.js & TypeScript**
 
-Building thoughtful digital experiences with reliable engineering and purposeful design.
+Based in Manila, Philippines · Building reliable software with thoughtful interfaces.
 
-[![Portfolio](https://img.shields.io/badge/Explore-My_GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Znerzi) [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renzdiaz) [![Email](https://img.shields.io/badge/Contact-Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renzdiaz.contact@gmail.com)
-
-<sub>Based in Manila, Philippines 🇵🇭</sub>
+[![GitHub](https://img.shields.io/badge/GitHub-Znerzi-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/Znerzi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/renzdiaz)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:renzdiaz.contact@gmail.com)
 
 </div>
 
 ---
 
-### Hello, I'm Renz 👋
+### About me
 
-I'm a **full-stack web developer** and **BSIT graduate (Cum Laude) from Universidad De Manila**. I build web applications that combine maintainable backend systems, thoughtful user experiences, and secure-by-design engineering.
+I'm a full-stack developer focused on building secure, maintainable web applications and polished user experiences. I work across **Laravel, PHP, Vue.js, Next.js, TypeScript, and relational databases**—from data models and APIs to accessible, responsive interfaces.
 
-My work spans **Laravel and PHP backends**, **Vue.js dashboards**, and **Next.js applications with TypeScript**. I enjoy turning complex workflows into interfaces that feel simple, intuitive, and dependable.
+- 🛠️ **Building:** Business platforms, research systems, and developer-friendly tools
+- 🎨 **Interested in:** Clean UI/UX, design systems, and thoughtful interactions
+- 🔐 **Engineering values:** Security, clarity, maintainability, and performance
+- 🎓 **Education:** BS Information Technology, Universidad de Manila
 
-> **My approach:** Understand the problem. Design the system. Build with care. Refine the details.
+### Tech stack
 
-### Technology & tools
+<div align="center">
 
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | Vue.js · Next.js · React · TypeScript · Tailwind CSS |
-| **Backend** | Laravel · PHP · Node.js · REST APIs |
-| **Data** | MySQL · PostgreSQL · Supabase |
-| **Workflow** | Git · GitHub · VS Code · Figma · Postman |
-| **Priorities** | Accessibility · Responsive UI · Security · Maintainability |
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=dark)
+
+**Backend & data**
+
+![Backend](https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=dark)
+
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark)
+
+</div>
 
 ### Selected work
 
@@ -38,84 +47,87 @@ My work spans **Laravel and PHP backends**, **Vue.js dashboards**, and **Next.js
 <tr>
 <td width="50%" valign="top">
 
-#### 🏢 PrimeOutsourcing
-**Project management platform**
+**PrimeOutsourcing**  
+*Project management platform*
 
-A corporate application with tailored workflows for administrators, developers, and clients.
+Laravel + Vue.js + Tailwind CSS + MySQL
 
-- Redesigned proposal, finance, and developer interfaces
-- Built proposal review and decision flows
-- Improved dashboard consistency and backend integration
-
-`Laravel` `Vue.js` `Tailwind CSS` `MySQL`
+- Role-based dashboards for admins, developers, and clients
+- Proposal reviews, financial views, and interface improvements
+- Frontend integration with backend forms and data
 
 </td>
 <td width="50%" valign="top">
 
-#### 🎥 WebiMix
-**Webinar hosting platform**
+**WebiMix**  
+*Webinar hosting and management*
 
-A platform for Filipino audiences to discover, host, and manage webinars.
+Next.js + TypeScript + Supabase
 
-- Built multi-step webinar creation experiences
-- Developed registration and certificate workflows
-- Implemented ownership checks and input validation
-
-`Next.js` `TypeScript` `Supabase` `Tailwind CSS`
+- Webinar publishing and registration management
+- Certificate and learning-material workflows
+- Secure, responsive interfaces for hosts and attendees
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-#### ✦ Personal Portfolio
-**A space to experiment with interaction and visual design**
+**MerlArchive**  
+*Academic research repository*
 
-Exploring refined typography, responsive layouts, interactive components, and polished web experiences through multiple design iterations.
+PHP + MySQL + NLP-assisted search
 
-`Laravel Blade` `PHP` `JavaScript` `Three.js`
+- Centralized academic archive for Universidad de Manila
+- Search, filtering, submissions, and review workflows
+- Student and librarian-facing experiences
+
+</td>
+<td width="50%" valign="top">
+
+**Personal Portfolio**  
+*Developer website and design explorations*
+
+Laravel + Blade + JavaScript
+
+- Iterative visual design and interaction improvements
+- Responsive layouts and accessible navigation
+- Focus on clarity, usability, and presentation
 
 </td>
 </tr>
 </table>
 
-### Engineering principles
+### Public repositories
 
-**01 — Design with intention**  
-Clear hierarchy, consistent spacing, accessible interactions, and interfaces that serve real user needs.
-
-**02 — Build for change**  
-Readable code, reusable components, well-defined APIs, and database structures that can evolve.
-
-**03 — Secure the fundamentals**  
-Input validation, authorization, rate limiting, and careful handling of user data.
+| Repository | Focus |
+| :--- | :--- |
+| [CSNK-V2.2](https://github.com/Znerzi/CSNK-V2.2) | Vue-based application |
+| [LaraNext](https://github.com/Znerzi/LaraNext) | Laravel / Blade development |
+| [Ionic](https://github.com/Znerzi/Ionic) | TypeScript mobile development |
+| [R_OneClickShop](https://github.com/Znerzi/R_OneClickShop) | E-commerce web project |
 
 ### GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Znerzi&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znerzi&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Znerzi&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117" alt="Renz's GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Znerzi&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" alt="Most used languages" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Znerzi&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=3fb950&point=3fb950" alt="GitHub contribution activity graph" width="100%" />
+
+<sub>GitHub's native contribution calendar and achievement badges appear on your profile automatically when available. They cannot be repositioned through README Markdown.</sub>
 
 </div>
-
-<sub>Stats are provided by third-party services and may occasionally be unavailable or incomplete.</sub>
-
-### Beyond the code
-
-- 🎓 **Education:** BS Information Technology, Universidad De Manila — Cum Laude
-- 📜 **Credentials:** CSC Professional Level II eligibility and TESDA certifications
-- 📍 **Location:** Manila, Philippines
-- 🤝 **Collaboration:** Open to meaningful software projects and developer connections
 
 ---
 
 <div align="center">
 
-**Have a project or an idea worth building?**
+**Let's build something useful.**
 
-[Let's connect on LinkedIn](https://linkedin.com/in/renzdiaz) · [Send an email](mailto:renzdiaz.contact@gmail.com) · [Explore my repositories](https://github.com/Znerzi?tab=repositories)
+[Email](mailto:renzdiaz.contact@gmail.com) · [LinkedIn](https://linkedin.com/in/renzdiaz) · [GitHub](https://github.com/Znerzi)
 
-<sub>Made with purpose, curiosity, and attention to detail.</sub>
+<sub>Designed for GitHub's dark appearance · Updated 2026</sub>
 
 </div>
