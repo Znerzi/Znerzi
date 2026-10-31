@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:161B22,100:0D1117&height=280&section=header&text=Renz%20Diaz&fontSize=62&fontColor=F0F6FC&animation=fadeIn&fontAlignY=38&desc=renzdiaz.contact%40gmail.com%20%20%E2%80%A2%20%20PeenoiseDev&descSize=18&descAlignY=60&descColor=39D0C3" alt="Renz Diaz | renzdiaz.contact@gmail.com | PeenoiseDev" width="100%" />
+<img src="./profile-banner.gif" alt="Renz Diaz with a rotating matrix-style donut, email, and PeenoiseDev" width="100%" />
 
 </div>
 
