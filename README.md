@@ -1,13 +1,7 @@
 <div align="center">
 
-# Hey, I'm Renz Diaz 👋
+<img src="./profile-banner.svg" alt="Renz Diaz | renzdiaz.contact@gmail.com | PeenoiseDev" width="100%" />
 
-**Full-Stack Developer · Laravel & Vue.js · Next.js & TypeScript**
-
-Based in Manila, Philippines · Building reliable software with thoughtful interfaces.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Znerzi-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/Znerzi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/renzdiaz)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:renzdiaz.contact@gmail.com)
 
 </div>
