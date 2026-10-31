@@ -1,19 +1,6 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td align="left" bgcolor="#161b22">
-
-<h1>Renz Diaz</h1>
-
-<a href="mailto:renzdiaz.contact@gmail.com">
-  <img src="https://img.shields.io/badge/Email-renzdiaz.contact%40gmail.com-30363d?style=flat-square&logo=gmail&logoColor=white" alt="Email Renz Diaz" />
-</a>
-<img src="https://img.shields.io/badge/Developer%20community-PeenoiseDev-238636?style=flat-square" alt="PeenoiseDev developer community" />
-
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:161B22,100:0D1117&height=280&section=header&text=Renz%20Diaz&fontSize=62&fontColor=F0F6FC&animation=fadeIn&fontAlignY=38&desc=renzdiaz.contact%40gmail.com%20%20%E2%80%A2%20%20PeenoiseDev&descSize=18&descAlignY=60&descColor=39D0C3" alt="Renz Diaz | renzdiaz.contact@gmail.com | PeenoiseDev" width="100%" />
 
 </div>
 
