@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./profile-banner.gif" alt="Renz Diaz with a rotating matrix-style donut, email, and PeenoiseDev" width="100%" />
+<img src="https://raw.githubusercontent.com/Znerzi/Znerzi/main/profile-banner.gif" alt="Animated matrix donut banner for Renz Diaz, renzdiaz.contact@gmail.com, and PeenoiseDev" width="100%" height="300" />
+
+<strong>Renz Diaz</strong><br />
+<a href="mailto:renzdiaz.contact@gmail.com">renzdiaz.contact@gmail.com</a> · PeenoiseDev
 
 </div>
 
