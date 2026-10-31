@@ -1,8 +1,19 @@
 <div align="center">
 
-<img src="./profile-banner.svg" alt="Renz Diaz | renzdiaz.contact@gmail.com | PeenoiseDev" width="100%" />
+<table width="100%">
+<tr>
+<td align="left" bgcolor="#161b22">
 
-[![Email](https://img.shields.io/badge/Email-Say%20hello-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:renzdiaz.contact@gmail.com)
+<h1>Renz Diaz</h1>
+
+<a href="mailto:renzdiaz.contact@gmail.com">
+  <img src="https://img.shields.io/badge/Email-renzdiaz.contact%40gmail.com-30363d?style=flat-square&logo=gmail&logoColor=white" alt="Email Renz Diaz" />
+</a>
+<img src="https://img.shields.io/badge/Developer%20community-PeenoiseDev-238636?style=flat-square" alt="PeenoiseDev developer community" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
