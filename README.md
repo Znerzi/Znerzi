@@ -33,7 +33,7 @@ I'm a full-stack developer who enjoys building useful, easy-to-use web applicati
 
 <strong>Frontend</strong><br /><br />
 <img src="https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Vue.js, Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, and CSS" /><br />
-<img src="https://img.shields.io/badge/Ionic-Mobile%20apps-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic" />
+<img src="https://cdn.simpleicons.org/ionic/3880FF" width="48" height="48" alt="Ionic" />
 
 </td>
 <td width="50%" valign="top">
@@ -54,7 +54,7 @@ I'm a full-stack developer who enjoys building useful, easy-to-use web applicati
 
 <strong>Cloud &amp; collaboration</strong><br /><br />
 <img src="https://skillicons.dev/icons?i=aws,bitbucket&theme=dark" alt="AWS and Bitbucket" />
-<img src="https://img.shields.io/badge/Jira-Work%20tracking-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" /><br />
+<img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" alt="Jira" /><br />
 <sub>AWS Lightsail · Amazon EC2</sub>
 
 </td>
