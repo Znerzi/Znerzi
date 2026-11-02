@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.gif" alt="Code-generated rotating Matrix ASCII donut" width="100%" />
+<img src="./profile-banner.gif?v=white" alt="Code-generated rotating Matrix ASCII donut" width="100%" />
 
 ### Renz Diaz
 **Full-Stack Developer** · Manila, Philippines
