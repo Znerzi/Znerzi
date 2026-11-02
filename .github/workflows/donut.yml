@@ -1,0 +1,46 @@
+import math
+from PIL import Image, ImageDraw, ImageFont
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+W, H = 78, 30
+SCALE = 2
+FRAMES = 72
+CHARS = '.,-~:;=!*#$@'
+FONT_PATHS = ['/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf','/usr/share/fonts/truetype/liberation2/LiberationMono-Regular.ttf']
+font_path = next((p for p in FONT_PATHS if Path(p).exists()), None)
+font = ImageFont.truetype(font_path, 14*SCALE) if font_path else ImageFont.load_default()
+cell_w, cell_h = 9*SCALE, 16*SCALE
+frames = []
+for frame in range(FRAMES):
+    A = frame * 2*math.pi / FRAMES
+    B = frame * 4*math.pi / FRAMES
+    zbuf = [0.0] * (W*H)
+    output = [' '] * (W*H)
+    for ii in range(0, 628, 3):
+        i = ii / 100
+        for jj in range(0, 628, 2):
+            j = jj / 100
+            c, d, e, f = math.sin(i), math.cos(j), math.sin(A), math.sin(j)
+            g, h = math.cos(A), d + 2
+            D = 1/(c*h*e + f*g + 5)
+            l, m, n = math.cos(i), math.cos(B), math.sin(B)
+            t = c*h*g - f*e
+            x = int(W/2 + 34*D*(l*h*m-t*n))
+            y = int(H/2 + 17*D*(l*h*n+t*m))
+            N = int(8*((f*e-c*d*g)*m-c*d*e-f*g-l*d*n))
+            if 0 <= x < W and 0 <= y < H and D > zbuf[x+W*y]:
+                idx = x+W*y
+                zbuf[idx] = D
+                output[idx] = CHARS[max(0,min(len(CHARS)-1,N))]
+    im = Image.new('RGB',(W*cell_w,H*cell_h),(0,0,0))
+    draw = ImageDraw.Draw(im)
+    for y in range(H):
+        for x in range(W):
+            char = output[x+W*y]
+            if char != ' ':
+                draw.text((x*cell_w,y*cell_h),char,font=font,fill=(60,240,105))
+    im.thumbnail((720,330))
+    frames.append(im)
+frames[0].save(ROOT/'profile-banner.gif',save_all=True,append_images=frames[1:],duration=55,loop=0,optimize=False)
+print('Generated', ROOT/'profile-banner.gif')
