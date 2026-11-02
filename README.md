@@ -52,9 +52,11 @@ I'm a full-stack developer who enjoys building useful, easy-to-use web applicati
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Znerzi?style=for-the-badge&logo=github&label=FOLLOWERS&color=238636)](https://github.com/Znerzi?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Znerzi?style=flat-square&logo=github&logoColor=white&label=FOLLOWERS&labelColor=30363d&color=238636)](https://github.com/Znerzi?tab=followers)
 
-[View my contribution calendar](https://github.com/Znerzi)
+<br />
+
+[<img src="https://img.shields.io/badge/View%20my%20contribution%20calendar-161b22?style=flat-square&logo=github&logoColor=white" alt="View my contribution calendar" />](https://github.com/Znerzi)
 
 </div>
 
@@ -62,14 +64,16 @@ I'm a full-stack developer who enjoys building useful, easy-to-use web applicati
 
 <div align="center">
 
-### Have a project in mind?
+### Let's build something useful.
 
-I'd love to hear what you're building. Let's make something useful together.
+Have an idea, a product, or a problem worth solving? Let's talk.
 
-[![Email](https://img.shields.io/badge/Email-Say%20hello-30363d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renzdiaz.contact@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renzdiaz)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Znerzi)
+[![Email](https://img.shields.io/badge/EMAIL-SAY%20HELLO-238636?style=flat-square&logo=gmail&logoColor=white)](mailto:renzdiaz.contact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-30363d?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/renzdiaz)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-30363d?style=flat-square&logo=github&logoColor=white)](https://github.com/Znerzi)
 
-<sub>The rotating ASCII donut above is generated from Python source code in this repository.</sub>
+<br />
+
+<sub>The rotating ASCII donut is generated with Python and GitHub Actions.</sub>
 
 </div>
