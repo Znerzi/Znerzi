@@ -28,12 +28,12 @@ I'm a full-stack developer who enjoys building useful, easy-to-use web applicati
 |---|---|
 | <img src="https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend technologies" /> | <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=dark" alt="Backend technologies" /> |
 | **Tools** | **Cloud & collaboration** |
-| <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Development tools" /> | <img src="https://skillicons.dev/icons?i=aws,bitbucket,jira&theme=dark" alt="Cloud and collaboration tools" /> |
+| <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Development tools" /> | <img src="https://skillicons.dev/icons?i=aws,bitbucket&theme=dark" alt="Cloud and collaboration tools" /> <img height="48" src="https://cdn.simpleicons.org/jira/2684FF" alt="Jira" /> |
 
 | Additional stack | Services & productivity |
 |---|---|
-| <img src="https://skillicons.dev/icons?i=xampp,ionic,wordpress,jira&theme=dark" alt="XAMPP, Ionic, WordPress, and Jira" /> | <img src="https://img.shields.io/badge/Laravel%20Herd-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Herd" /> <img src="https://img.shields.io/badge/Laravel%20Telescope-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Telescope" /> <img src="https://img.shields.io/badge/Xendit-1E3A8A?style=flat-square&logoColor=white" alt="Xendit" /> <img src="https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=twilio&logoColor=white" alt="SendGrid" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" /> |
-| <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Codex-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Codex" /> | PHP development, AI-assisted coding, payments, email, and communications |
+| <img height="48" src="https://cdn.simpleicons.org/xampp/F37623" alt="XAMPP" /> <img height="48" src="https://cdn.simpleicons.org/ionic/3880FF" alt="Ionic" /> <img height="48" src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" /> | <img height="48" src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel Herd" title="Laravel Herd" /> <img height="48" src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel Telescope" title="Laravel Telescope" /> <img height="48" src="https://cdn.simpleicons.org/xendit/1E3A8A" alt="Xendit" /> <img height="48" src="https://cdn.simpleicons.org/sendgrid/1A82E2" alt="SendGrid" /> <img height="48" src="https://cdn.simpleicons.org/twilio/F22F46" alt="Twilio" /> |
+| <img height="48" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" /> <img height="48" src="https://cdn.simpleicons.org/openai/10A37F" alt="Codex" title="Codex" /> | <img height="48" src="https://cdn.simpleicons.org/jira/2684FF" alt="Jira" /> |
 
 ### Selected work
 
