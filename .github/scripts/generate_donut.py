@@ -7,7 +7,7 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = Path(__file__).resolve().parents[2]
 WIDTH, HEIGHT = 78, 30
 SCALE = 2
-FRAME_COUNT = 72
+FRAME_COUNT = 120
 CHARACTERS = ".,-~:;=!*#$@"
 FONT_PATHS = (
     "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf",
@@ -59,7 +59,7 @@ def main():
         output_path,
         save_all=True,
         append_images=frames[1:],
-        duration=55,
+        duration=180,
         loop=0,
         optimize=False,
         transparency=0,
