@@ -5,7 +5,7 @@
 ### Renz Diaz
 **Full-Stack Developer** · Manila, Philippines
 
-[Email](mailto:renzdiaz.contact@gmail.com) · [LinkedIn](https://linkedin.com/in/renzdiaz) · [GitHub](https://github.com/Znerzi)
+[Email](mailto:renzdiaz.contact@gmail.com) · [LinkedIn](https://linkedin.com/in/renzdiaz) · [GitHub](https://github.com/Znerasdaszi)
 
 </div>
 
