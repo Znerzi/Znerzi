@@ -39,13 +39,13 @@ def render_frame(frame_number, font):
                 z_buffer[index] = depth
                 output[index] = CHARACTERS[max(0, min(len(CHARACTERS) - 1, brightness))]
 
-    image = Image.new("RGB", (WIDTH * 9 * SCALE, HEIGHT * 16 * SCALE), "black")
+    image = Image.new("RGBA", (WIDTH * 9 * SCALE, HEIGHT * 16 * SCALE), (0, 0, 0, 0))
     draw = ImageDraw.Draw(image)
     for y in range(HEIGHT):
         for x in range(WIDTH):
             character = output[x + WIDTH * y]
             if character != " ":
-                draw.text((x * 9 * SCALE, y * 16 * SCALE), character, font=font, fill=(60, 240, 105))
+                draw.text((x * 9 * SCALE, y * 16 * SCALE), character, font=font, fill=(255, 255, 255, 255))
     image.thumbnail((720, 330))
     return image
 
@@ -55,7 +55,16 @@ def main():
     font = ImageFont.truetype(font_path, 14 * SCALE) if font_path else ImageFont.load_default()
     frames = [render_frame(number, font) for number in range(FRAME_COUNT)]
     output_path = ROOT / "profile-banner.gif"
-    frames[0].save(output_path, save_all=True, append_images=frames[1:], duration=55, loop=0, optimize=False)
+    frames[0].save(
+        output_path,
+        save_all=True,
+        append_images=frames[1:],
+        duration=55,
+        loop=0,
+        optimize=False,
+        transparency=0,
+        disposal=2,
+    )
     print(f"Generated {output_path}")
 
 
