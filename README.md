@@ -1,15 +1,11 @@
-<div>
+<div align="center">
 
 <img align="right" src="./profile-banner.gif?v=large-right-centered" alt="Code-generated rotating Matrix ASCII donut" width="360" />
-
-<div align="center">
 
 ### Renz Diaz
 **Full-Stack Developer** · Manila, Philippines
 
 [Email](mailto:renzdiaz.contact@gmail.com) · [LinkedIn](https://linkedin.com/in/renzdiaz) · [GitHub](https://github.com/Znerzi)
-
- </div>
 
 <br clear="all" />
 
