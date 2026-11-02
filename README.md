@@ -13,7 +13,7 @@
 
 ### About me
 
-I'm a full-stack devasdasdasdeloper who enjoys building useful, easy-to-use web applications. I work with **Laravel, PHP, Vue.js, Next.js, TypeScript, and databases**, and I like turning ideas into responsive websites.
+I'm a full-stack developer who enjoys building useful, easy-to-use web applications. I work with **Laravel, PHP, Vue.js, Next.js, TypeScript, and databases**, and I like turning ideas into responsive websites.
 
 - **Building:** Websites and tools for businesses, schools, and teams
 - **Interested in:** Clear designs and simple, helpful interactions
