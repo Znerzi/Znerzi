@@ -59,7 +59,7 @@ def main():
         output_path,
         save_all=True,
         append_images=frames[1:],
-        duration=180,
+        duration=80,
         loop=0,
         optimize=False,
         transparency=0,
