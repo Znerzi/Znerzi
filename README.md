@@ -28,7 +28,7 @@ I'm a full-stack developer who enjoys building useful, easy-to-use web applicati
 |---|---|
 | <img src="https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend technologies" /> | <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=dark" alt="Backend technologies" /> |
 | **Tools** | **Cloud & collaboration** |
-| <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Development tools" /> | <img src="https://skillicons.dev/icons?i=aws,bitbucket&theme=dark" alt="Cloud tools" /> |
+| <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Development tools" /> | <img src="https://skillicons.dev/icons?i=aws,bitbucket,jira&theme=dark" alt="Cloud and collaboration tools" /> |
 
 ### Selected work
 
