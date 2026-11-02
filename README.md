@@ -30,6 +30,11 @@ I'm a full-stack developer who enjoys building useful, easy-to-use web applicati
 | **Tools** | **Cloud & collaboration** |
 | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Development tools" /> | <img src="https://skillicons.dev/icons?i=aws,bitbucket,jira&theme=dark" alt="Cloud and collaboration tools" /> |
 
+| Additional stack | Services & productivity |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=xampp,ionic,wordpress,jira&theme=dark" alt="XAMPP, Ionic, WordPress, and Jira" /> | <img src="https://img.shields.io/badge/Laravel%20Herd-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Herd" /> <img src="https://img.shields.io/badge/Laravel%20Telescope-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Telescope" /> <img src="https://img.shields.io/badge/Xendit-1E3A8A?style=flat-square&logoColor=white" alt="Xendit" /> <img src="https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=twilio&logoColor=white" alt="SendGrid" /> <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" /> |
+| <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/Codex-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Codex" /> | PHP development, AI-assisted coding, payments, email, and communications |
+
 ### Selected work
 
 | Project | Description | Stack |
