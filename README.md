@@ -1,6 +1,6 @@
 <div>
 
-<img align="right" src="./profile-banner.gif?v=float-right" alt="Code-generated rotating Matrix ASCII donut" width="260" />
+<img align="right" src="./profile-banner.gif?v=large-right-centered" alt="Code-generated rotating Matrix ASCII donut" width="360" />
 
 <div align="center">
 
