@@ -1,20 +1,13 @@
 <div align="center">
 
-<table>
-<tr>
-<td valign="middle">
+<img align="right" src="./profile-banner.gif?v=float-right" alt="Code-generated rotating Matrix ASCII donut" width="260" />
 
 ### Renz Diaz
 **Full-Stack Developer** · Manila, Philippines
 
 [Email](mailto:renzdiaz.contact@gmail.com) · [LinkedIn](https://linkedin.com/in/renzdiaz) · [GitHub](https://github.com/Znerzi)
 
-</td>
-<td align="right" valign="bottom">
-<img src="./profile-banner.gif?v=small-right" alt="Code-generated rotating Matrix ASCII donut" width="180" />
-</td>
-</tr>
-</table>
+<br clear="all" />
 
 </div>
 
