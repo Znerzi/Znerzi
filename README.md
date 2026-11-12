@@ -57,28 +57,34 @@ I'm a full-stack developer who enjoys building useful, easy-to-use web applicati
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Znerzi?style=flat-square&logo=github&logoColor=white&label=FOLLOWERS&labelColor=30363d&color=238636)](https://github.com/Znerzi?tab=followers)
+<a href="https://github.com/Znerzi">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Znerzi&bg_color=0d1117&color=c9d1d9&line=2f81f7&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" alt="Renz Diaz's GitHub contribution activity" width="100%" />
+</a>
 
-<br />
-
-[<img src="https://img.shields.io/badge/View%20my%20contribution%20calendar-161b22?style=flat-square&logo=github&logoColor=white" alt="View my contribution calendar" />](https://github.com/Znerzi)
+[![Followers](https://img.shields.io/github/followers/Znerzi?style=for-the-badge&label=FOLLOWERS&labelColor=161b22&color=238636)](https://github.com/Znerzi?tab=followers)
+[![View profile](https://img.shields.io/badge/-VIEW_PROFILE-161b22?style=for-the-badge)](https://github.com/Znerzi)
 
 </div>
 
 ---
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="58%" align="center">
+      <h3>Let's build something useful.</h3>
+      <p>Have an idea, a product, or a problem worth solving?</p>
+      <p>I'm open to thoughtful projects and new opportunities.</p>
+    </td>
+    <td width="42%" align="center">
+      <strong>START A CONVERSATION</strong>
+      <br /><br />
+      <a href="mailto:renzdiaz.contact@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-238636?style=for-the-badge" alt="Send an email" /></a>
+      <br />
+      <a href="https://linkedin.com/in/renzdiaz"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+      <br />
+      <a href="https://github.com/Znerzi"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-30363d?style=for-the-badge" alt="Follow on GitHub" /></a>
+    </td>
+  </tr>
+</table>
 
-### Let's build something useful.
-
-Have an idea, a product, or a problem worth solving? Let's talk.
-
-[![Email](https://img.shields.io/badge/EMAIL-SAY%20HELLO-238636?style=flat-square&logo=gmail&logoColor=white)](mailto:renzdiaz.contact@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-30363d?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/renzdiaz)
-[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-30363d?style=flat-square&logo=github&logoColor=white)](https://github.com/Znerzi)
-
-<br />
-
-<sub>The rotating ASCII donut is generated with Python and GitHub Actions.</sub>
-
-</div>
+<p align="center"><sub>The rotating ASCII donut is generated with Python and GitHub Actions.</sub></p>
