@@ -31,9 +31,21 @@ I'm a full-stack developer who enjoys building useful, easy-to-use web applicati
 | **Tools** | **Cloud & collaboration** |
 | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Development tools" /> | <img src="https://skillicons.dev/icons?i=aws,bitbucket&theme=dark" alt="Cloud and collaboration tools" /> <img height="48" src="https://cdn.simpleicons.org/jira/2684FF" alt="Jira" /> |
 
-| Additional stack | Services & productivity |
-|---|---|
-| <nobr><img width="42" src="https://cdn.simpleicons.org/xampp/F37623" alt="XAMPP" /> <img width="42" src="https://cdn.simpleicons.org/ionic/3880FF" alt="Ionic" /> <img width="42" src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" /></nobr> | <nobr><img src="https://img.shields.io/badge/-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Herd" title="Laravel Herd" /> <img src="https://img.shields.io/badge/-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Telescope" title="Laravel Telescope" /> <img src="https://img.shields.io/badge/-1E3A8A?style=for-the-badge&logo=xendit&logoColor=white" alt="Xendit" /> <img src="https://img.shields.io/badge/-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white" alt="SendGrid" /> <img src="https://img.shields.io/badge/-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" /> <img src="https://img.shields.io/badge/-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" title="Codex" /></nobr> |
+**Additional stack**
+
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+**Services & productivity**
+
+![Laravel Herd](https://img.shields.io/badge/Laravel_Herd-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Laravel Telescope](https://img.shields.io/badge/Laravel_Telescope-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Xendit](https://img.shields.io/badge/Xendit-1E3A8A?style=flat-square&logo=xendit&logoColor=white)
+![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=sendgrid&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=flat-square&logo=openai&logoColor=white)
 
 ### Selected work
 
