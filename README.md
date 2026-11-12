@@ -4,24 +4,6 @@
 
 <img src="./assets/hero.svg" alt="Renz Diaz — Full-stack developer" width="100%" />
 
-<br /><br />
-
-<img src="https://img.shields.io/badge/Open_to-New_Opportunities-238636?style=for-the-badge" alt="Open to new opportunities" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-
-<br /><br />
-
-<a href="mailto:renzdiaz.contact@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-238636?style=for-the-badge" alt="Send an email" /></a>
-<a href="https://linkedin.com/in/renzdiaz"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-<a href="https://github.com/Znerzi"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-30363d?style=for-the-badge" alt="Follow on GitHub" /></a>
-
 </div>
 
 <br />
