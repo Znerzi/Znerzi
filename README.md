@@ -29,7 +29,7 @@ I'm a full-stack developer who enjoys building useful, easy-to-use web applicati
 |---|---|
 | <img src="https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend technologies" /> | <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=dark" alt="Backend technologies" /> |
 | **Tools** | **Cloud & collaboration** |
-| <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Development tools" /> | <img src="https://skillicons.dev/icons?i=aws,bitbucket&theme=dark" alt="Cloud and collaboration tools" /> <img height="48" src="https://cdn.simpleicons.org/jira/2684FF" alt="Jira" /> |
+| <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Development tools" /> | <nobr><img src="https://skillicons.dev/icons?i=aws,bitbucket&theme=dark" alt="AWS and Bitbucket" /> <img width="48" height="48" src="https://api.iconify.design/logos/aws-lightsail.svg" alt="AWS Lightsail" title="AWS Lightsail" /> <img width="48" height="48" src="https://api.iconify.design/logos/aws-ec2.svg" alt="Amazon EC2" title="Amazon EC2" /> <img width="48" height="48" src="https://cdn.simpleicons.org/jira/2684FF" alt="Jira" title="Jira" /></nobr> |
 
 | Additional stack | Services & productivity |
 |---|---|
