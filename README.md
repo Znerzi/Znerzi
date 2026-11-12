@@ -37,21 +37,53 @@ I'm a full-stack developer who enjoys building useful, easy-to-use web applicati
 
 ### Selected work
 
-| Project | Description | Stack |
-|---|---|---|
-| [CSNK-V2.2](https://github.com/Znerzi/CSNK-V2.2) | Vue-based frontend application | Vue.js |
-| **WebiMix** | Webinar hosting, registrations, certificates, and learning materials | Next.js, TypeScript, Supabase |
-| **MerlArchive** | Academic research repository for Universidad de Manila | PHP, MySQL |
-| **Personal Portfolio** | Developer portfolio and responsive design explorations | Laravel, JavaScript |
+<table width="100%">
+  <tr>
+    <td width="72%">
+      <h3><a href="https://github.com/Znerzi/CSNK-V2.2">CSNK-V2.2</a></h3>
+      <p>A Vue-based frontend application focused on a clean and responsive user experience.</p>
+    </td>
+    <td width="28%" valign="middle">
+      <strong>STACK</strong><br /><br />Vue.js
+    </td>
+  </tr>
+</table>
 
-### Public repositories
+<table width="100%">
+  <tr>
+    <td width="72%">
+      <h3>WebiMix</h3>
+      <p>A webinar platform for hosting events, managing registrations, issuing certificates, and sharing learning materials.</p>
+    </td>
+    <td width="28%" valign="middle">
+      <strong>STACK</strong><br /><br />Next.js<br />TypeScript<br />Supabase
+    </td>
+  </tr>
+</table>
 
-| Repository | Focus |
-|---|---|
-| [CSNK-V2.2](https://github.com/Znerzi/CSNK-V2.2) | Vue frontend |
-| [LaraNext](https://github.com/Znerzi/LaraNext) | Laravel and Blade |
-| [Ionic](https://github.com/Znerzi/Ionic) | TypeScript mobile development |
-| [R_OneClickShop](https://github.com/Znerzi/R_OneClickShop) | E-commerce web project |
+<table width="100%">
+  <tr>
+    <td width="72%">
+      <h3>MerlArchive</h3>
+      <p>An academic research repository designed for Universidad de Manila.</p>
+    </td>
+    <td width="28%" valign="middle">
+      <strong>STACK</strong><br /><br />PHP<br />MySQL
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="72%">
+      <h3>Personal Portfolio</h3>
+      <p>A responsive developer portfolio and a space for exploring interface and web design ideas.</p>
+    </td>
+    <td width="28%" valign="middle">
+      <strong>STACK</strong><br /><br />Laravel<br />JavaScript
+    </td>
+  </tr>
+</table>
 
 ### GitHub activity
 
