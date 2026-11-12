@@ -1,84 +1,83 @@
-<table>
-  <tr>
-    <td width="62%" valign="middle">
-      <h1>Hi, I'm Renz Diaz 👋</h1>
-      <h3>Full-Stack Developer based in Manila, Philippines</h3>
-      <p>
-        I build reliable, user-friendly web applications—from polished interfaces
-        to secure APIs and well-structured databases.
-      </p>
-      <p>
-        <a href="mailto:renzdiaz.contact@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-        <a href="https://linkedin.com/in/renzdiaz"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="https://github.com/Znerzi"><img src="https://img.shields.io/github/followers/Znerzi?style=flat-square&logo=github&label=Follow&color=181717" alt="Follow Renz on GitHub" /></a>
-      </p>
-    </td>
-    <td width="38%" align="center">
-      <img src="./profile-banner.gif" alt="Animated ASCII donut generated with Python" width="330" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## About me
+<img align="right" src="./profile-banner.gif?v=large-right-centered" alt="Code-generated rotating Matrix ASCII donut" width="360" />
 
-I'm a BS Information Technology graduate from **Universidad de Manila** who enjoys turning practical ideas into responsive, maintainable products. My work spans frontend development, backend systems, database design, and third-party service integrations.
+### Renz Diaz
+**Full-Stack Developer** · Manila, Philippines
 
-- 🔭 I build web tools for businesses, schools, and teams
-- 🧩 I care about simple interfaces, thoughtful details, and maintainable code
-- 🛡️ I value secure, dependable software over unnecessary complexity
-- 💬 Ask me about **Laravel, Vue.js, Next.js, TypeScript, or PHP**
+[Email](mailto:renzdiaz.contact@gmail.com) · [LinkedIn](https://linkedin.com/in/renzdiaz) · [GitHub](https://github.com/Znerzi)
 
-## Toolbox
+<br clear="all" />
 
-**Frontend**
+</div>
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+---
 
-**Backend & data**
+### About me
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3FCF8E)
+I'm a full-stack developer who enjoys building useful, easy-to-use web applications. I work with **Laravel, PHP, Vue.js, Next.js, TypeScript, and databases**, and I like turning ideas into responsive websites.
 
-**Tools & platforms**
+- **Building:** Websites and tools for businesses, schools, and teams
+- **Interested in:** Clear designs and simple, helpful interactions
+- **How I work:** Secure, reliable software and maintainable code
+- **Education:** BS in Information Technology, Universidad de Manila
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+### Tech stack
 
-## Selected work
+| Frontend | Backend & data |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend technologies" /> | <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=dark" alt="Backend technologies" /> |
+| **Tools** | **Cloud & collaboration** |
+| <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Development tools" /> | <img src="https://skillicons.dev/icons?i=aws,bitbucket&theme=dark" alt="Cloud and collaboration tools" /> <img height="48" src="https://cdn.simpleicons.org/jira/2684FF" alt="Jira" /> |
 
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| [**CSNK-V2.2**](https://github.com/Znerzi/CSNK-V2.2) | A Vue-based frontend application | Vue.js |
-| **WebiMix** | Manages webinar hosting, registration, certificates, and learning materials | Next.js · TypeScript · Supabase |
-| **MerlArchive** | An academic research repository for Universidad de Manila | PHP · MySQL |
-| **Personal Portfolio** | A responsive portfolio and space for UI explorations | Laravel · JavaScript |
+| Additional stack | Services & productivity |
+|---|---|
+| <nobr><img width="42" src="https://cdn.simpleicons.org/xampp/F37623" alt="XAMPP" /> <img width="42" src="https://cdn.simpleicons.org/ionic/3880FF" alt="Ionic" /> <img width="42" src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" /></nobr> | <nobr><img src="https://img.shields.io/badge/-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Herd" title="Laravel Herd" /> <img src="https://img.shields.io/badge/-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Telescope" title="Laravel Telescope" /> <img src="https://img.shields.io/badge/-1E3A8A?style=for-the-badge&logo=xendit&logoColor=white" alt="Xendit" /> <img src="https://img.shields.io/badge/-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white" alt="SendGrid" /> <img src="https://img.shields.io/badge/-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" /> <img src="https://img.shields.io/badge/-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" title="Codex" /></nobr> |
 
-## More repositories
+### Selected work
 
-- [**LaraNext**](https://github.com/Znerzi/LaraNext) — Laravel and Blade development
-- [**Ionic**](https://github.com/Znerzi/Ionic) — TypeScript mobile development
-- [**R_OneClickShop**](https://github.com/Znerzi/R_OneClickShop) — E-commerce web project
+| Project | Description | Stack |
+|---|---|---|
+| [CSNK-V2.2](https://github.com/Znerzi/CSNK-V2.2) | Vue-based frontend application | Vue.js |
+| **WebiMix** | Webinar hosting, registrations, certificates, and learning materials | Next.js, TypeScript, Supabase |
+| **MerlArchive** | Academic research repository for Universidad de Manila | PHP, MySQL |
+| **Personal Portfolio** | Developer portfolio and responsive design explorations | Laravel, JavaScript |
+
+### Public repositories
+
+| Repository | Focus |
+|---|---|
+| [CSNK-V2.2](https://github.com/Znerzi/CSNK-V2.2) | Vue frontend |
+| [LaraNext](https://github.com/Znerzi/LaraNext) | Laravel and Blade |
+| [Ionic](https://github.com/Znerzi/Ionic) | TypeScript mobile development |
+| [R_OneClickShop](https://github.com/Znerzi/R_OneClickShop) | E-commerce web project |
+
+### GitHub activity
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/Znerzi?style=flat-square&logo=github&logoColor=white&label=FOLLOWERS&labelColor=30363d&color=238636)](https://github.com/Znerzi?tab=followers)
+
+<br />
+
+[<img src="https://img.shields.io/badge/View%20my%20contribution%20calendar-161b22?style=flat-square&logo=github&logoColor=white" alt="View my contribution calendar" />](https://github.com/Znerzi)
+
+</div>
 
 ---
 
 <div align="center">
-  <h3>Let's build something useful.</h3>
-  <p>Have a product idea or a problem worth solving? I'd be glad to hear about it.</p>
-  <a href="mailto:renzdiaz.contact@gmail.com"><strong>Send me an email →</strong></a>
-  <br /><br />
-  <sub>The animated ASCII donut above is generated with Python and GitHub Actions.</sub>
+
+### Let's build something useful.
+
+Have an idea, a product, or a problem worth solving? Let's talk.
+
+[![Email](https://img.shields.io/badge/EMAIL-SAY%20HELLO-238636?style=flat-square&logo=gmail&logoColor=white)](mailto:renzdiaz.contact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-30363d?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/renzdiaz)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-30363d?style=flat-square&logo=github&logoColor=white)](https://github.com/Znerzi)
+
+<br />
+
+<sub>The rotating ASCII donut is generated with Python and GitHub Actions.</sub>
+
 </div>
