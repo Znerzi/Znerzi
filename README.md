@@ -43,45 +43,60 @@ and I like turning ideas into responsive websites.
 
 <img src="./assets/t-stack.svg" alt="Tech stack" width="100%" />
 
-<img src="./assets/s-frontend.svg" alt="Frontend" width="100%" />
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend technologies" />
-</p>
-
-<img src="./assets/s-backend.svg" alt="Backend and data" width="100%" />
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=dark" alt="Backend technologies" />
-</p>
-
-<img src="./assets/s-tools.svg" alt="Tools" width="100%" />
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Development tools" />
-</p>
-
-<img src="./assets/s-cloud.svg" alt="Cloud and collaboration" width="100%" />
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,bitbucket&theme=dark" alt="AWS and Bitbucket" />
-  <img width="48" height="48" src="https://api.iconify.design/logos/aws-lightsail.svg" alt="AWS Lightsail" title="AWS Lightsail" />
-  <img width="48" height="48" src="https://api.iconify.design/logos/aws-ec2.svg" alt="Amazon EC2" title="Amazon EC2" />
-  <img width="48" height="48" src="https://cdn.simpleicons.org/jira/2684FF" alt="Jira" title="Jira" />
-</p>
-
-<img src="./assets/s-additional.svg" alt="Additional stack" width="100%" />
-<p align="center">
-  <img width="48" height="48" src="https://cdn.simpleicons.org/xampp/F37623" alt="XAMPP" title="XAMPP" />
-  <img width="48" height="48" src="https://cdn.simpleicons.org/ionic/3880FF" alt="Ionic" title="Ionic" />
-  <img width="48" height="48" src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" title="WordPress" />
-</p>
-
-<img src="./assets/s-services.svg" alt="Services and productivity" width="100%" />
-<p align="center">
-  <img width="48" height="48" src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel tools" title="Laravel Herd and Telescope" />
-  <img width="48" height="48" src="https://cdn.simpleicons.org/xendit/FFFFFF" alt="Xendit" title="Xendit" />
-  <img width="48" height="48" src="https://api.iconify.design/logos/sendgrid-icon.svg" alt="SendGrid" title="SendGrid" />
-  <img width="48" height="48" src="https://api.iconify.design/logos/twilio-icon.svg" alt="Twilio" title="Twilio" />
-  <img width="48" height="48" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" title="Claude" />
-  <img width="48" height="48" src="https://api.iconify.design/logos/openai-icon.svg" alt="Codex" title="Codex" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/s-frontend.svg" alt="Frontend" width="100%" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend technologies" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/s-backend.svg" alt="Backend and data" width="100%" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=dark" alt="Backend technologies" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/s-tools.svg" alt="Tools" width="100%" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Development tools" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/s-cloud.svg" alt="Cloud and collaboration" width="100%" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=aws,bitbucket&theme=dark" alt="AWS and Bitbucket" />
+        <img width="48" height="48" src="https://api.iconify.design/logos/aws-lightsail.svg" alt="AWS Lightsail" title="AWS Lightsail" />
+        <img width="48" height="48" src="https://api.iconify.design/logos/aws-ec2.svg" alt="Amazon EC2" title="Amazon EC2" />
+        <img width="48" height="48" src="https://cdn.simpleicons.org/jira/2684FF" alt="Jira" title="Jira" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/s-additional.svg" alt="Additional stack" width="100%" />
+      <p align="center">
+        <img width="48" height="48" src="https://cdn.simpleicons.org/xampp/F37623" alt="XAMPP" title="XAMPP" />
+        <img width="48" height="48" src="https://cdn.simpleicons.org/ionic/3880FF" alt="Ionic" title="Ionic" />
+        <img width="48" height="48" src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" title="WordPress" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/s-services.svg" alt="Services and productivity" width="100%" />
+      <p align="center">
+        <img width="48" height="48" src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel tools" title="Laravel Herd and Telescope" />
+        <img width="48" height="48" src="https://cdn.simpleicons.org/xendit/FFFFFF" alt="Xendit" title="Xendit" />
+        <img width="48" height="48" src="https://api.iconify.design/logos/sendgrid-icon.svg" alt="SendGrid" title="SendGrid" />
+        <img width="48" height="48" src="https://api.iconify.design/logos/twilio-icon.svg" alt="Twilio" title="Twilio" />
+        <img width="48" height="48" src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" title="Claude" />
+        <img width="48" height="48" src="https://api.iconify.design/logos/openai-icon.svg" alt="Codex" title="Codex" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
