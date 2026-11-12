@@ -7,8 +7,11 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = Path(__file__).resolve().parents[2]
 WIDTH, HEIGHT = 78, 30
 SCALE = 2
-FRAME_COUNT = 120
+FRAME_COUNT = 60
 CHARACTERS = ".,-~:;=!*#$@"
+HERO_WIDTH = 1000
+DONUT_WIDTH = 390
+DONUT_OPACITY = 34
 FONT_PATHS = (
     "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf",
     "/usr/share/fonts/truetype/liberation2/LiberationMono-Regular.ttf",
@@ -53,19 +56,35 @@ def render_frame(frame_number, font):
 def main():
     font_path = next((path for path in FONT_PATHS if Path(path).exists()), None)
     font = ImageFont.truetype(font_path, 14 * SCALE) if font_path else ImageFont.load_default()
-    frames = [render_frame(number, font) for number in range(FRAME_COUNT)]
+    banner_path = ROOT / "me.png"
+    banner = Image.open(banner_path).convert("RGBA")
+    hero_height = round(banner.height * HERO_WIDTH / banner.width)
+    banner = banner.resize((HERO_WIDTH, hero_height), Image.Resampling.LANCZOS)
+
+    frames = []
+    for number in range(FRAME_COUNT):
+        donut = render_frame(number, font)
+        donut_height = round(donut.height * DONUT_WIDTH / donut.width)
+        donut = donut.resize((DONUT_WIDTH, donut_height), Image.Resampling.LANCZOS)
+        donut.putalpha(donut.getchannel("A").point(lambda alpha: alpha * DONUT_OPACITY // 255))
+
+        frame = banner.copy()
+        # Keep the animation behind the headline, away from the portrait and contact details.
+        position = (HERO_WIDTH - DONUT_WIDTH - 65, 35)
+        frame.alpha_composite(donut, position)
+        frames.append(frame.convert("RGB").quantize(colors=128, method=Image.Quantize.MEDIANCUT))
+
     output_path = ROOT / "profile-banner.gif"
     frames[0].save(
         output_path,
         save_all=True,
         append_images=frames[1:],
-        duration=80,
+        duration=100,
         loop=0,
-        optimize=False,
-        transparency=0,
-        disposal=2,
+        optimize=True,
+        disposal=1,
     )
-    print(f"Generated {output_path}")
+    print(f"Generated animated hero banner at {output_path}")
 
 
 if __name__ == "__main__":
