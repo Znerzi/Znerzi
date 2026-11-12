@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="204" viewBox="0 0 880 204" role="img">
+  <style>
+.bg{fill:#141c2b;stroke:#243049;stroke-width:1.5}
+.title{font:800 34px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:url(#g)}
+.sec{font:800 26px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#e6ecf5}
+.h{font:700 18px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#e6ecf5}
+.sub{font:400 14px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#94a3b8}
+.role{font:600 18px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#2dd4bf;opacity:0}
+.label{font:700 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#2dd4bf;letter-spacing:1px}
+.val{font:400 14px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#e6ecf5}
+.tag{fill:#12303a;stroke:#2dd4bf;stroke-opacity:.45;stroke-width:1}
+.tagt{font:600 12px Consolas,'Courier New',monospace;fill:#2dd4bf}
+.bar{fill:url(#g)}
+.chipbg{fill:#1b2540}
+.btn{fill:none;stroke:#2dd4bf;stroke-width:1.5}
+.btnt{font:700 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#2dd4bf;letter-spacing:1px}
+.cta{fill:url(#g)}
+.ctat{font:800 30px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#fff}
+.ctas{font:400 15px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#e8ecff}
+.pulse{animation:pulse 3s ease-in-out infinite}
+.r{animation:fade 9s infinite}
+.r2{animation-delay:-6s}
+.r3{animation-delay:-3s}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes fade{0%{opacity:0}5%,28%{opacity:1}33%,100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.pulse,.r{animation:none;opacity:1}}
+</style>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c8cff"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="4" width="204" height="196" rx="16" class="bg"/>
+  <rect x="18" y="22" width="44" height="44" rx="12" class="chipbg"/>
+  <text x="40" y="53" text-anchor="middle" font-size="22">🛠️</text>
+  <text x="18" y="96" class="label">BUILDING</text>
+  <text x="18" y="122" class="val">Websites and tools for</text>
+  <text x="18" y="144" class="val">businesses, schools,</text>
+  <text x="18" y="166" class="val">and teams</text>
+  <rect x="223" y="4" width="204" height="196" rx="16" class="bg"/>
+  <rect x="241" y="22" width="44" height="44" rx="12" class="chipbg"/>
+  <text x="263" y="53" text-anchor="middle" font-size="22">🎨</text>
+  <text x="241" y="96" class="label">INTERESTED IN</text>
+  <text x="241" y="122" class="val">Clear designs and</text>
+  <text x="241" y="144" class="val">simple, helpful</text>
+  <text x="241" y="166" class="val">interactions</text>
+  <rect x="446" y="4" width="204" height="196" rx="16" class="bg"/>
+  <rect x="464" y="22" width="44" height="44" rx="12" class="chipbg"/>
+  <text x="486" y="53" text-anchor="middle" font-size="22">🔒</text>
+  <text x="464" y="96" class="label">HOW I WORK</text>
+  <text x="464" y="122" class="val">Secure, reliable software</text>
+  <text x="464" y="144" class="val">and maintainable</text>
+  <text x="464" y="166" class="val">code</text>
+  <rect x="669" y="4" width="204" height="196" rx="16" class="bg"/>
+  <rect x="687" y="22" width="44" height="44" rx="12" class="chipbg"/>
+  <text x="709" y="53" text-anchor="middle" font-size="22">🎓</text>
+  <text x="687" y="96" class="label">EDUCATION</text>
+  <text x="687" y="122" class="val">BS in Information</text>
+  <text x="687" y="144" class="val">Technology,</text>
+  <text x="687" y="166" class="val">Universidad de Manila</text>
+</svg>

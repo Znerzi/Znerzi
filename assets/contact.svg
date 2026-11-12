@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="190" viewBox="0 0 880 190" role="img">
+  <style>
+.bg{fill:#141c2b;stroke:#243049;stroke-width:1.5}
+.title{font:800 34px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:url(#g)}
+.sec{font:800 26px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#e6ecf5}
+.h{font:700 18px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#e6ecf5}
+.sub{font:400 14px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#94a3b8}
+.role{font:600 18px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#2dd4bf;opacity:0}
+.label{font:700 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#2dd4bf;letter-spacing:1px}
+.val{font:400 14px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#e6ecf5}
+.tag{fill:#12303a;stroke:#2dd4bf;stroke-opacity:.45;stroke-width:1}
+.tagt{font:600 12px Consolas,'Courier New',monospace;fill:#2dd4bf}
+.bar{fill:url(#g)}
+.chipbg{fill:#1b2540}
+.btn{fill:none;stroke:#2dd4bf;stroke-width:1.5}
+.btnt{font:700 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#2dd4bf;letter-spacing:1px}
+.cta{fill:url(#g)}
+.ctat{font:800 30px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#fff}
+.ctas{font:400 15px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#e8ecff}
+.pulse{animation:pulse 3s ease-in-out infinite}
+.r{animation:fade 9s infinite}
+.r2{animation-delay:-6s}
+.r3{animation-delay:-3s}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes fade{0%{opacity:0}5%,28%{opacity:1}33%,100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.pulse,.r{animation:none;opacity:1}}
+</style>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7c8cff"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="876" height="186" rx="22" class="cta"/>
+  <circle cx="800" cy="30" r="90" fill="#fff" opacity=".08"/>
+  <circle cx="70" cy="170" r="70" fill="#fff" opacity=".08"/>
+  <text x="440" y="82" text-anchor="middle" class="ctat">Let's build something useful.</text>
+  <text x="440" y="118" text-anchor="middle" class="ctas">Have an idea, a product, or a problem worth solving?</text>
+  <text x="440" y="144" text-anchor="middle" class="ctas">I'm open to thoughtful projects and new opportunities.</text>
+</svg>

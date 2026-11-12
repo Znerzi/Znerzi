@@ -1,0 +1,32 @@
+name: Validate Profile Assets
+
+on:
+  push:
+    paths:
+      - "README.md"
+      - "assets/**"
+      - ".github/scripts/generate_assets.py"
+      - ".github/workflows/assets.yml"
+  pull_request:
+    paths:
+      - "README.md"
+      - "assets/**"
+      - ".github/scripts/generate_assets.py"
+      - ".github/workflows/assets.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Validate README assets
+        run: python .github/scripts/generate_assets.py
