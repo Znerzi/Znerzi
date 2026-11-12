@@ -3,7 +3,6 @@ name: Generate Matrix Donut
 on:
   push:
     paths:
-      - "me.png"
       - ".github/workflows/donut.yml"
       - ".github/scripts/generate_donut.py"
   schedule:
