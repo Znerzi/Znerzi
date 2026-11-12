@@ -55,16 +55,31 @@ I'm a full-stack developer who enjoys building useful, easy-to-use web applicati
 
 ### GitHub activity
 
-<div align="center">
-
-<a href="https://github.com/Znerzi">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Znerzi&bg_color=0d1117&color=c9d1d9&line=2f81f7&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" alt="Renz Diaz's GitHub contribution activity" width="100%" />
-</a>
-
-[![Followers](https://img.shields.io/github/followers/Znerzi?style=for-the-badge&label=FOLLOWERS&labelColor=161b22&color=238636)](https://github.com/Znerzi?tab=followers)
-[![View profile](https://img.shields.io/badge/-VIEW_PROFILE-161b22?style=for-the-badge)](https://github.com/Znerzi)
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <strong>PUBLIC WORK</strong>
+      <br /><br />
+      <sub>Browse the projects and experiments I share publicly.</sub>
+      <br /><br />
+      <a href="https://github.com/Znerzi?tab=repositories"><strong>VIEW REPOSITORIES</strong></a>
+    </td>
+    <td width="34%" align="center">
+      <strong>CONTRIBUTIONS</strong>
+      <br /><br />
+      <sub>See my latest commits, pull requests, and activity.</sub>
+      <br /><br />
+      <a href="https://github.com/Znerzi"><strong>VIEW ACTIVITY</strong></a>
+    </td>
+    <td width="33%" align="center">
+      <strong>DEVELOPER PROFILE</strong>
+      <br /><br />
+      <sub>Follow my work and keep up with new projects.</sub>
+      <br /><br />
+      <a href="https://github.com/Znerzi?tab=followers"><strong>VIEW PROFILE</strong></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
