@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="./me.png" alt="Renz Diaz — Software Developer" width="100%" />
+
+</div>
+
+<br />
+
+<div align="center">
+
 <img align="right" src="./profile-banner.gif?v=large-right-centered" alt="Code-generated rotating Matrix ASCII donut" width="360" />
 
 ### Renz Diaz
