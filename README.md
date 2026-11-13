@@ -31,9 +31,9 @@ and I like turning ideas into responsive websites.
       <img src="./assets/s-frontend.svg" alt="Frontend" width="100%" />
       <p align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=light" />
-          <img src="https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=light" alt="Frontend technologies" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue%2Creact%2Cnextjs%2Cvite%2Cts%2Cjs%2Ctailwind%2Chtml%2Ccss&amp;perline=5&amp;theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vue%2Creact%2Cnextjs%2Cvite%2Cts%2Cjs%2Ctailwind%2Chtml%2Ccss&amp;perline=5&amp;theme=light" />
+          <img src="https://skillicons.dev/icons?i=vue%2Creact%2Cnextjs%2Cvite%2Cts%2Cjs%2Ctailwind%2Chtml%2Ccss&amp;perline=5&amp;theme=light" alt="Vue.js, React, Next.js, Vite, TypeScript, JavaScript, Tailwind CSS, HTML, and CSS" />
         </picture>
       </p>
     </td>
@@ -41,9 +41,9 @@ and I like turning ideas into responsive websites.
       <img src="./assets/s-backend.svg" alt="Backend and data" width="100%" />
       <p align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=light" />
-          <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=light" alt="Backend technologies" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel%2Cphp%2Cnodejs%2Cmysql%2Cpostgres%2Csupabase&amp;theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel%2Cphp%2Cnodejs%2Cmysql%2Cpostgres%2Csupabase&amp;theme=light" />
+          <img src="https://skillicons.dev/icons?i=laravel%2Cphp%2Cnodejs%2Cmysql%2Cpostgres%2Csupabase&amp;theme=light" alt="Backend technologies" />
         </picture>
       </p>
     </td>
@@ -53,9 +53,9 @@ and I like turning ideas into responsive websites.
       <img src="./assets/s-tools.svg" alt="Tools" width="100%" />
       <p align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=light" />
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=light" alt="Development tools" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode%2Cfigma%2Cpostman%2Cvercel&amp;theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode%2Cfigma%2Cpostman%2Cvercel&amp;theme=light" />
+          <img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cvscode%2Cfigma%2Cpostman%2Cvercel&amp;theme=light" alt="Development tools" />
         </picture>
       </p>
     </td>
@@ -63,9 +63,9 @@ and I like turning ideas into responsive websites.
       <img src="./assets/s-cloud.svg" alt="Cloud and collaboration" width="100%" />
       <p align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,bitbucket&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,bitbucket&theme=light" />
-          <img src="https://skillicons.dev/icons?i=aws,bitbucket&theme=light" alt="AWS and Bitbucket" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cbitbucket&amp;theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws%2Cbitbucket&amp;theme=light" />
+          <img src="https://skillicons.dev/icons?i=aws%2Cbitbucket&amp;theme=light" alt="AWS and Bitbucket" />
         </picture>
         <img width="48" height="48" src="https://api.iconify.design/logos/aws-lightsail.svg" alt="AWS Lightsail" title="AWS Lightsail" />
         <img width="48" height="48" src="https://api.iconify.design/logos/aws-ec2.svg" alt="Amazon EC2" title="Amazon EC2" />
@@ -86,9 +86,9 @@ and I like turning ideas into responsive websites.
       <img src="./assets/s-services.svg" alt="Services and productivity" width="100%" />
       <p align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel&theme=light" />
-          <img width="48" height="48" src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel tools" title="Laravel Herd and Telescope" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel&amp;theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel&amp;theme=light" />
+          <img width="48" height="48" src="https://skillicons.dev/icons?i=laravel&amp;theme=light" alt="Laravel tools" title="Laravel Herd and Telescope" />
         </picture>
         <img width="48" height="48" src="https://cdn.simpleicons.org/xendit/FFFFFF" alt="Xendit" title="Xendit" />
         <img width="48" height="48" src="https://api.iconify.design/logos/sendgrid-icon.svg" alt="SendGrid" title="SendGrid" />
