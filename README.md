@@ -30,13 +30,21 @@ and I like turning ideas into responsive websites.
     <td width="50%" valign="top">
       <img src="./assets/s-frontend.svg" alt="Frontend" width="100%" />
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend technologies" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=light" />
+          <img src="https://skillicons.dev/icons?i=vue,nextjs,react,ts,js,tailwind,html,css&theme=light" alt="Frontend technologies" />
+        </picture>
       </p>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/s-backend.svg" alt="Backend and data" width="100%" />
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=dark" alt="Backend technologies" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=light" />
+          <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,supabase&theme=light" alt="Backend technologies" />
+        </picture>
       </p>
     </td>
   </tr>
@@ -44,13 +52,21 @@ and I like turning ideas into responsive websites.
     <td width="50%" valign="top">
       <img src="./assets/s-tools.svg" alt="Tools" width="100%" />
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" alt="Development tools" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=light" />
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=light" alt="Development tools" />
+        </picture>
       </p>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/s-cloud.svg" alt="Cloud and collaboration" width="100%" />
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=aws,bitbucket&theme=dark" alt="AWS and Bitbucket" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,bitbucket&theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,bitbucket&theme=light" />
+          <img src="https://skillicons.dev/icons?i=aws,bitbucket&theme=light" alt="AWS and Bitbucket" />
+        </picture>
         <img width="48" height="48" src="https://api.iconify.design/logos/aws-lightsail.svg" alt="AWS Lightsail" title="AWS Lightsail" />
         <img width="48" height="48" src="https://api.iconify.design/logos/aws-ec2.svg" alt="Amazon EC2" title="Amazon EC2" />
         <img width="48" height="48" src="https://cdn.simpleicons.org/jira/2684FF" alt="Jira" title="Jira" />
@@ -69,7 +85,11 @@ and I like turning ideas into responsive websites.
     <td width="50%" valign="top">
       <img src="./assets/s-services.svg" alt="Services and productivity" width="100%" />
       <p align="center">
-        <img width="48" height="48" src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel tools" title="Laravel Herd and Telescope" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel&theme=dark" />
+          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel&theme=light" />
+          <img width="48" height="48" src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel tools" title="Laravel Herd and Telescope" />
+        </picture>
         <img width="48" height="48" src="https://cdn.simpleicons.org/xendit/FFFFFF" alt="Xendit" title="Xendit" />
         <img width="48" height="48" src="https://api.iconify.design/logos/sendgrid-icon.svg" alt="SendGrid" title="SendGrid" />
         <img width="48" height="48" src="https://api.iconify.design/logos/twilio-icon.svg" alt="Twilio" title="Twilio" />
