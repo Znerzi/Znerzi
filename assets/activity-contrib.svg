@@ -24,6 +24,16 @@
 @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
 @keyframes fade{0%{opacity:0}5%,28%{opacity:1}33%,100%{opacity:0}}
 @media (prefers-reduced-motion:reduce){.pulse,.r{animation:none;opacity:1}}
+@media (prefers-color-scheme:light){
+  .bg{fill:#f6f8fa;stroke:#d0d7de}
+  .sec,.h,.val{fill:#1f2328}
+  .sub{fill:#57606a}
+  .chipbg{fill:#fff;stroke:#d8dee4;stroke-width:1}
+  .label,.tagt,.btnt{fill:#0969da}
+  .tag{fill:#ddf4ff;stroke:#54aeff}
+  .btn{stroke:#0969da}
+  line{stroke:#d0d7de}
+}
 </style>
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
