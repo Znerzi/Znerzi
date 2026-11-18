@@ -43,6 +43,6 @@
   </defs>
   <rect x="0" y="14" width="6" height="40" rx="3" class="bar pulse"/>
   <text x="22" y="36" class="sec">GitHub activity</text>
-  <text x="22" y="58" class="sub">Follow along with what I am shipping.</text>
+  <text x="22" y="58" class="sub">Code, projects, and recent work on GitHub.</text>
   <line x1="0" y1="78" x2="880" y2="78" stroke="#243049" stroke-width="1.5"/>
 </svg>

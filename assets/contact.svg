@@ -44,7 +44,7 @@
   <rect x="2" y="2" width="876" height="186" rx="22" class="cta"/>
   <circle cx="800" cy="30" r="90" fill="#fff" opacity=".08"/>
   <circle cx="70" cy="170" r="70" fill="#fff" opacity=".08"/>
-  <text x="440" y="82" text-anchor="middle" class="ctat">Let's build something useful.</text>
-  <text x="440" y="118" text-anchor="middle" class="ctas">Have an idea, a product, or a problem worth solving?</text>
-  <text x="440" y="144" text-anchor="middle" class="ctas">I'm open to thoughtful projects and new opportunities.</text>
+  <text x="440" y="82" text-anchor="middle" class="ctat">Need a web app built or improved?</text>
+  <text x="440" y="118" text-anchor="middle" class="ctas">I work on Laravel, Vue.js, and Next.js projects.</text>
+  <text x="440" y="144" text-anchor="middle" class="ctas">Send me a message and tell me what you are working on.</text>
 </svg>

@@ -123,16 +123,16 @@ and I like turning ideas into responsive websites.
 <img src="./assets/t-activity.svg" alt="GitHub activity" width="100%" />
 
 <p align="center">
-  <a href="https://github.com/Znerzi?tab=repositories"><img src="./assets/activity-public.svg" alt="Public work: view repositories" width="32%" /></a>
-  <a href="https://github.com/Znerzi"><img src="./assets/activity-contrib.svg" alt="Contributions: view activity" width="32%" /></a>
-  <a href="https://github.com/Znerzi?tab=followers"><img src="./assets/activity-profile.svg" alt="Developer profile: view profile" width="32%" /></a>
+  <a href="https://github.com/Znerzi?tab=repositories"><img src="./assets/activity-public.svg" alt="Repositories: projects and source code shared on GitHub" width="32%" /></a>
+  <a href="https://github.com/Znerzi"><img src="./assets/activity-contrib.svg" alt="Recent activity: commits, pull requests, and current work" width="32%" /></a>
+  <a href="https://github.com/Znerzi"><img src="./assets/activity-profile.svg" alt="GitHub profile: public work and contributions" width="32%" /></a>
 </p>
 
 <br />
 
 <!-- ============================ CONTACT ============================ -->
 
-<img src="./assets/contact.svg" alt="Let's build something useful." width="100%" />
+<img src="./assets/contact.svg" alt="Need a web app built or improved? I work on Laravel, Vue.js, and Next.js projects. Send me a message and tell me what you are working on." width="100%" />
 
 <p align="center">
   <a href="mailto:renzdiaz.contact@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-238636?style=for-the-badge" alt="Send an email" /></a>

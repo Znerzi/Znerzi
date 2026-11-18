@@ -12,6 +12,7 @@
 .tagt{font:600 12px Consolas,'Courier New',monospace;fill:#2dd4bf}
 .bar{fill:url(#g)}
 .chipbg{fill:#1b2540}
+.icon{fill:none;stroke:#a5b4fc;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
 .btn{fill:none;stroke:#2dd4bf;stroke-width:1.5}
 .btnt{font:700 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#2dd4bf;letter-spacing:1px}
 .cta{fill:url(#g)}
@@ -29,6 +30,7 @@
   .sec,.h,.val{fill:#1f2328}
   .sub{fill:#57606a}
   .chipbg{fill:#fff;stroke:#d8dee4;stroke-width:1}
+  .icon{stroke:#0969da}
   .label,.tagt,.btnt{fill:#0969da}
   .tag{fill:#ddf4ff;stroke:#54aeff}
   .btn{stroke:#0969da}
@@ -42,10 +44,12 @@
     </linearGradient>
   </defs>
   <rect x="2" y="2" width="282" height="196" rx="16" class="bg"/>
-  <text x="142" y="40" text-anchor="middle" class="h" style="font-size:16px">DEVELOPER PROFILE</text>
-  <text x="142" y="70" text-anchor="middle" class="sub">Follow my work and keep</text>
-  <text x="142" y="90" text-anchor="middle" class="sub">up with new</text>
-  <text x="142" y="110" text-anchor="middle" class="sub">projects.</text>
-  <rect x="42" y="148" width="200" height="34" rx="17" class="btn pulse"/>
-  <text x="142" y="170" text-anchor="middle" class="btnt">VIEW PROFILE</text>
+  <g class="icon" transform="translate(130 18)">
+    <circle cx="12" cy="8" r="5"/><path d="M3 22c1.5-5 5-7 9-7s7.5 2 9 7"/>
+  </g>
+  <text x="142" y="68" text-anchor="middle" class="h" style="font-size:16px">GITHUB PROFILE</text>
+  <text x="142" y="98" text-anchor="middle" class="sub">Find all of my public work</text>
+  <text x="142" y="118" text-anchor="middle" class="sub">and contributions in one place.</text>
+  <rect x="42" y="148" width="200" height="34" rx="17" class="btn"/>
+  <text x="142" y="170" text-anchor="middle" class="btnt">OPEN PROFILE</text>
 </svg>
