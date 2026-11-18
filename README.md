@@ -13,7 +13,7 @@
 <img src="./assets/t-about.svg" alt="About me" width="100%" />
 
 <p align="center">
-I'm a full-stack developer who enjasdasdasdasoys building useful, easy-to-use web applications.<br />
+I'm a full-stack developer who enjoys building useful, easy-to-use web applications.<br />
 I work with <strong>Laravel, PHP, Vue.js, Next.js, TypeScript, and databases</strong>,<br />
 and I like turning ideas into responsive websites.
 </p>
