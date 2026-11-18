@@ -17,7 +17,7 @@ I'm a full-stack developer who enjoys building useful, easy-to-use web applicati
 I work with <strong>Laravel, PHP, Vue.js, Next.js, TypeScript, and databases</strong>,<br />
 and I like turning ideas into responsive websites.
 </p>
-<img src="./assets/about.svg" alt="Building: websites and tools for businesses, schools, and teams. Interested in: clear designs and simple, helpful interactions. How I work: secure, reliable software and maintainable code. Education: BS in Information Technology, Universidad de Manila." width="100%" />
+<img src="./assets/about.svg" alt="What I build: business tools, school platforms, and practical web apps. Design focus: clean interfaces that make everyday tasks easier. My approach: reliable, secure code that stays easy to maintain. Education: BS Information Technology, Universidad de Manila." width="100%" />
 
 <br />
 
